@@ -42,3 +42,6 @@ config.ini
 secrets.json
 *.pem
 *.key
+
+# ---- WorkBuddy 工作区数据（含记忆与本地状态，不提交） ----
+.workbuddy/
